@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345378610853",
+    "project_id": "practice7-65fc7",
+    "storage_bucket": "practice7-65fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345378610853:android:016762892f7fdd503ff74c",
+        "android_client_info": {
+          "package_name": "ru.mirea.lomako.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345378610853-dfrdq09oneqoog1qd1m2r1nq7sd05ujm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17xnsAZxHbulJu0I5wB59NdW04n4f7Z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345378610853-dfrdq09oneqoog1qd1m2r1nq7sd05ujm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
